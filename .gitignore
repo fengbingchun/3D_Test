@@ -3,4 +3,6 @@ prj/.vs
 prj/VTK_Test/x64
 prj/x64
 prj/VTK_Test/*.user
+prj/PCL_Test/*.user
+prj/PCL_Test/x64
 python/*.vtk

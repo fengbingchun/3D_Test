@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36811.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VTK_Test", "VTK_Test\VTK_Test.vcxproj", "{A4C2FEF3-15FB-481C-BD0F-D03602623EF0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PCL_Test", "PCL_Test\PCL_Test.vcxproj", "{FFAE8F8F-048A-4FEA-8D3F-1F1ED999E1BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -15,6 +17,10 @@ Global
 		{A4C2FEF3-15FB-481C-BD0F-D03602623EF0}.Debug|x64.Build.0 = Debug|x64
 		{A4C2FEF3-15FB-481C-BD0F-D03602623EF0}.Release|x64.ActiveCfg = Release|x64
 		{A4C2FEF3-15FB-481C-BD0F-D03602623EF0}.Release|x64.Build.0 = Release|x64
+		{FFAE8F8F-048A-4FEA-8D3F-1F1ED999E1BD}.Debug|x64.ActiveCfg = Debug|x64
+		{FFAE8F8F-048A-4FEA-8D3F-1F1ED999E1BD}.Debug|x64.Build.0 = Debug|x64
+		{FFAE8F8F-048A-4FEA-8D3F-1F1ED999E1BD}.Release|x64.ActiveCfg = Release|x64
+		{FFAE8F8F-048A-4FEA-8D3F-1F1ED999E1BD}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
